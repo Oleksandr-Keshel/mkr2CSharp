@@ -1,0 +1,13 @@
+C:\Users\Катя\Desktop\ProgramC#\Modele 2\Modele 2\bin\Debug\Modele 2.exe.config
+C:\Users\Катя\Desktop\ProgramC#\Modele 2\Modele 2\bin\Debug\Modele 2.exe
+C:\Users\Катя\Desktop\ProgramC#\Modele 2\Modele 2\bin\Debug\Modele 2.pdb
+C:\Users\Катя\Desktop\ProgramC#\Modele 2\Modele 2\obj\Debug\Modele 2.csproj.AssemblyReference.cache
+C:\Users\Катя\Desktop\ProgramC#\Modele 2\Modele 2\obj\Debug\Modele 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Катя\Desktop\ProgramC#\Modele 2\Modele 2\obj\Debug\Modele_2.Form1.resources
+C:\Users\Катя\Desktop\ProgramC#\Modele 2\Modele 2\obj\Debug\Modele_2.Properties.Resources.resources
+C:\Users\Катя\Desktop\ProgramC#\Modele 2\Modele 2\obj\Debug\Modele 2.csproj.GenerateResource.cache
+C:\Users\Катя\Desktop\ProgramC#\Modele 2\Modele 2\obj\Debug\Modele 2.csproj.CoreCompileInputs.cache
+C:\Users\Катя\Desktop\ProgramC#\Modele 2\Modele 2\obj\Debug\Modele 2.exe
+C:\Users\Катя\Desktop\ProgramC#\Modele 2\Modele 2\obj\Debug\Modele 2.pdb
+C:\Users\Катя\Desktop\ProgramC#\Modele 2\Modele 2\obj\Debug\Modele_2.ReduceSalaryForm.resources
+C:\Users\Катя\Desktop\ProgramC#\Modele 2\Modele 2\obj\Debug\Modele_2.Form2.resources
